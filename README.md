@@ -85,7 +85,7 @@ discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1
 
 ## About Us
 
--
+![QSoD LOGO](https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/23cdb0f5-2239-43d6-9d0c-51417e0a9cb7)
 
 ## Connect Us
 
