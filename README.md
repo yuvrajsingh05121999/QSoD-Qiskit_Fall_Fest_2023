@@ -63,11 +63,33 @@ discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1
 ### Day 3 : Workshop + Challenge/Hackathon
 | Date | Event |
 | --- | --- |
-| Fri, Oct 13, 09:00 IST | Talk 1 |
-| Fri, Oct 13, 10:00 IST | Talk 2 |
-| Fri, Oct 13, 11:00 IST | Talk 3 |
-| Fri, Oct 13, 12:00 IST | Talk 4 |
-| Fri, Oct 13, 13:00 IST | Talk 5 |
-| Fri, Oct 13, 14:00 IST | Talk 6 |
+| Sat, Oct 14, 09:00 IST | Workshop 1 |
+| Sat, Oct 14, 10:00 IST | Workshop 2 |
+| Sat, Oct 14, 11:00 IST | Workshop 3 |
+| Sat, Oct 14, 12:00 IST | Workshop 4 |
 
+## Judging Criteria
 
+-
+-
+-
+-
+
+## Winners
+
+-
+-
+-
+-
+-
+
+## About Us
+
+-
+
+## Connect Us
+
+-
+
+<br><br>
+# [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
