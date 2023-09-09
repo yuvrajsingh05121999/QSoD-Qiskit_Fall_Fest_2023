@@ -1,1 +1,1 @@
-# Quantum Society of Defense Institute of Technology : Qiskit Fall Fest 2023
+# Quantum Society of Defense Institute Advanced of Technology : Qiskit Fall Fest 2023
