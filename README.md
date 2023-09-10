@@ -1,4 +1,4 @@
-# Quantum Society of Defense Institute of Advanced Technology : Qiskit Fall Fest 2023
+# Quantum Society of Defence Institute of Advanced Technology : IBM Qiskit Fall Fest 2023
 
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/4f4a8065-60d9-4753-8f7b-33d406a556fc">
 
