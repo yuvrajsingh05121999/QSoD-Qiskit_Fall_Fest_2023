@@ -3,7 +3,7 @@
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/4f4a8065-60d9-4753-8f7b-33d406a556fc">
 
 ## Welcome!
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+We the quantum society of DIAT-QSoD at School of Quantum Technology is organising Qiskit Fall Fest 2023 as a Hybrid Event. The fest will consists of 2 days of talks given by people from Industry and Academia on Quantum Computing and related fields. The last day will consists of a series of workshop and will end with a Coding Challenge/Hackathon based on Qiskit. Hackathon will be open for all the students of DIAT and some well recognized Institutes in and around Pune. 
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/you-are-invited-to-the-2023-qiskit-fall-fest-a0efc490f24a) Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, 
 
