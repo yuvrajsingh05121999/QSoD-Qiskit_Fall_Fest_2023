@@ -11,30 +11,24 @@ We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organisi
 
 - Who can register -  "Students" who are studying at educational institutions located within Pune district. 
 - Please register here - [Google Form Link](https://)
+- NOTE : Accommodation and meals are not included; however, there will be a high tea service.
 
 ## Talks Details
 
--
--
--
--
--
+- Two day talk ( 26 oct 2023 - 27 oct 2023
+- Speakers spanning diverse realms within the Quantum Field like Quantum Info, Quantum Computation, QML, Quantum Algo, etc.
+- Mode - Hybrid
 
 ## Workshop Details
 
--
--
--
--
--
+- Workshop on .............. 
+- Mode - Inperon
 
 ## Challenge/Hackathon
 
 -
 -
--
--
--
+
 
 ## Event Schedule
 
