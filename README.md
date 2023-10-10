@@ -41,30 +41,39 @@ We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organisi
 ### Day 1 : Talks
 | Date | Event |
 | --- | --- |
-| Thurs, Oct 12, 09:00 IST | Talk 1 |
-| Thurs, Oct 12, 10:00 IST | Talk 2 |
-| Thurs, Oct 12, 11:00 IST | Talk 3 |
-| Thurs, Oct 12, 12:00 IST | Talk 4 |
-| Thurs, Oct 12, 13:00 IST | Talk 5 |
-| Thurs, Oct 12, 14:00 IST | Talk 6 |
+| Thurs, Oct 26, 09:00 IST | SQT Director's inaugural speech |
+| Thurs, Oct 26, 09:30 IST | Foundation of QM - Unni Sir |
+| Thurs, Oct 26, 10:15 IST | Talk  |
+| Thurs, Oct 26, 11:00 IST | Break - HIGH TEA |
+| Thurs, Oct 26, 11:30 IST | Talk  |
+| Thurs, Oct 26, 12:15 IST | Talk  |
+| Thurs, Oct 26, 13:00 IST | Break - HIGH TEA |
+| Thurs, Oct 26, 14:30 IST | Topic - Eric Gebril  |
+| Thurs, Oct 26, 15:15 IST | Talk  |
+| Thurs, Oct 26, 16:00 IST | Topic |
+
 
 ### Day 2 : Talks
 | Date | Event |
 | --- | --- |
-| Fri, Oct 13, 09:00 IST | Talk 1 |
-| Fri, Oct 13, 10:00 IST | Talk 2 |
-| Fri, Oct 13, 11:00 IST | Talk 3 |
-| Fri, Oct 13, 12:00 IST | Talk 4 |
-| Fri, Oct 13, 13:00 IST | Talk 5 |
-| Fri, Oct 13, 14:00 IST | Talk 6 |
+| Fri, Oct 27, 09:00 IST | Opening Address |
+| Fri, Oct 27, 09:30 IST | Use of FPGA in Quantum - Rajesh Nair Sir |
+| Fri, Oct 27, 10:15 IST | Talk  |
+| Fri, Oct 27, 11:00 IST | Break - HIGH TEA |
+| Fri, Oct 27, 11:30 IST | Talk  |
+| Fri, Oct 27, 12:15 IST | Talk  |
+| Fri, Oct 27, 13:00 IST | Break - HIGH TEA |
+| Fri, Oct 27, 14:30 IST | Talk  |
+| Fri, Oct 27, 15:15 IST | Talk  |
+| Fri, Oct 27, 16:00 IST | Topic - Ritajit Majumdar  |
 
 ### Day 3 : Workshop + Challenge/Hackathon
 | Date | Event |
 | --- | --- |
-| Sat, Oct 14, 09:00 IST | Workshop 1 |
-| Sat, Oct 14, 10:00 IST | Workshop 2 |
-| Sat, Oct 14, 11:00 IST | Workshop 3 |
-| Sat, Oct 14, 12:00 IST | Workshop 4 |
+| Sat, Oct 28, 09:00 IST | Workshop 1 |
+| Sat, Oct 28, 10:00 IST | Workshop 2 |
+| Sat, Oct 28, 11:00 IST | Workshop 3 |
+| Sat, Oct 28, 12:00 IST | Challenge |
 
 ## Judging Criteria
 
