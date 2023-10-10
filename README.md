@@ -9,7 +9,7 @@ We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organisi
 
 ## Official Registration
 
-- Who can register
+- Who can register -  "Students" who are studying at educational institutions located within Pune district. 
 - Please register here - [Google Form Link](https://)
 
 ## Talks Details
