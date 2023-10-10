@@ -36,13 +36,13 @@ We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organisi
 | Date | Event |
 | --- | --- |
 | Thurs, Oct 26, 09:00 IST | SQT Director's inaugural speech |
-| Thurs, Oct 26, 09:30 IST | Foundation of QM - Unni Sir |
+| Thurs, Oct 26, 09:30 IST |  |
 | Thurs, Oct 26, 10:15 IST | Talk  |
 | Thurs, Oct 26, 11:00 IST | Break - HIGH TEA |
 | Thurs, Oct 26, 11:30 IST | Talk  |
 | Thurs, Oct 26, 12:15 IST | Talk  |
 | Thurs, Oct 26, 13:00 IST | Break - HIGH TEA |
-| Thurs, Oct 26, 14:30 IST | Topic - Eric Gebril  |
+| Thurs, Oct 26, 14:30 IST |   |
 | Thurs, Oct 26, 15:15 IST | Talk  |
 | Thurs, Oct 26, 16:00 IST | Topic |
 
@@ -51,15 +51,15 @@ We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organisi
 | Date | Event |
 | --- | --- |
 | Fri, Oct 27, 09:00 IST | Opening Address |
-| Fri, Oct 27, 09:30 IST | Use of FPGA in Quantum - Rajesh Nair Sir |
+| Fri, Oct 27, 09:30 IST |  |
 | Fri, Oct 27, 10:15 IST | Talk  |
 | Fri, Oct 27, 11:00 IST | Break - HIGH TEA |
 | Fri, Oct 27, 11:30 IST | Talk  |
 | Fri, Oct 27, 12:15 IST | Talk  |
-| Fri, Oct 27, 13:00 IST | Break - HIGH TEA |
+| Fri, Oct 27, 13:00 IST | Break  |
 | Fri, Oct 27, 14:30 IST | Talk  |
 | Fri, Oct 27, 15:15 IST | Talk  |
-| Fri, Oct 27, 16:00 IST | Topic - Ritajit Majumdar  |
+| Fri, Oct 27, 16:00 IST |  |
 
 ### Day 3 : Workshop + Challenge/Hackathon
 | Date | Event |
