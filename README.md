@@ -3,7 +3,9 @@
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/4f4a8065-60d9-4753-8f7b-33d406a556fc">
 
 ## Welcome!
-We the Quantum Society of DIAT(QSoD) at School of Quantum Technology is organising Qiskit Fall Fest 2023 as a Hybrid Event. The fest will consists of 2 days of talks given by people from Industry and Academia on Quantum Computing and related fields. The last day will consists of a series of workshop and will end with a Coding Challenge/Hackathon based on Qiskit. Hackathon will be a in-person event and will be open to all the students of DIAT and some well recognized Institutes in and around Pune. 
+Hola Quantum Maniacs!!
+The School of Quantum Technology, DIAT  is thrilled to announce its first ever IBM QISKIT FALL FEST'23 as an inaugural event for the students led "QUANTUM SOCIETY OF DIAT (QSD)".
+Get ready to embark on the journey introducing you to the latest trends in academia and industries where you will get a chance to interact and learn with the bright and entrepreneurial minds. So fasten up your seatbelts and get ready for a riveting adventure where the future beholds.
 
 [Qiskit Fall Fest](https://medium.com/qiskit/you-are-invited-to-the-2023-qiskit-fall-fest-a0efc490f24a)
 
