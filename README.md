@@ -35,11 +35,11 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 | --- | --- |
 | Thurs, Oct 26, 09:00 IST |  |
 | Thurs, Oct 26, 09:30 IST |  |
-| Thurs, Oct 26, 10:15 IST | Talk  |
+| Thurs, Oct 26, 10:15 IST |   |
 | Thurs, Oct 26, 11:00 IST | Break - HIGH TEA |
-| Thurs, Oct 26, 11:30 IST | Talk  |
-| Thurs, Oct 26, 12:15 IST | Talk  |
-| Thurs, Oct 26, 13:00 IST | Break - HIGH TEA |
+| Thurs, Oct 26, 11:30 IST |   |
+| Thurs, Oct 26, 12:15 IST |   |
+| Thurs, Oct 26, 13:00 IST | Break |
 | Thurs, Oct 26, 14:30 IST |   |
 | Thurs, Oct 26, 15:15 IST | Talk  |
 | Thurs, Oct 26, 16:00 IST |  |
@@ -51,7 +51,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 | Fri, Oct 27, 09:00 IST | Opening Address |
 | Fri, Oct 27, 09:30 IST |  |
 | Fri, Oct 27, 10:15 IST | Talk  |
-| Fri, Oct 27, 11:00 IST | Break - HIGH TEA |
+| Fri, Oct 27, 11:00 IST | Break |
 | Fri, Oct 27, 11:30 IST | Talk  |
 | Fri, Oct 27, 12:15 IST | Talk  |
 | Fri, Oct 27, 13:00 IST | Break  |
