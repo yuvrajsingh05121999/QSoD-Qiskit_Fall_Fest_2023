@@ -9,8 +9,8 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 [Qiskit Fall Fest](https://medium.com/qiskit/you-are-invited-to-the-2023-qiskit-fall-fest-a0efc490f24a)
 
-<img src="https://github.com/yuvrajsingh05121999/QSD-Qiskit_Fall_Fest_2023/assets/95167383/a21c3985-e5df-4b90-85ea-e5b6ecb55730)
-">
+<img src="https://github.com/yuvrajsingh05121999/QSD-Qiskit_Fall_Fest_2023/assets/95167383/a21c3985-e5df-4b90-85ea-e5b6ecb55730">
+
 ## Official Registration
 
 - Who can register -  "Students" who are studying at educational institutions located within Pune district. 
