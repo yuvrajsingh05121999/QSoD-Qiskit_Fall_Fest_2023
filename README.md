@@ -33,7 +33,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 ### Day 1 : Talks
 | Date | Event |
 | --- | --- |
-| Thurs, Oct 26, 09:00 IST | SQT Director's inaugural speech |
+| Thurs, Oct 26, 09:00 IST |  |
 | Thurs, Oct 26, 09:30 IST |  |
 | Thurs, Oct 26, 10:15 IST | Talk  |
 | Thurs, Oct 26, 11:00 IST | Break - HIGH TEA |
@@ -42,7 +42,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 | Thurs, Oct 26, 13:00 IST | Break - HIGH TEA |
 | Thurs, Oct 26, 14:30 IST |   |
 | Thurs, Oct 26, 15:15 IST | Talk  |
-| Thurs, Oct 26, 16:00 IST | Topic |
+| Thurs, Oct 26, 16:00 IST |  |
 
 
 ### Day 2 : Talks
