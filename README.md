@@ -22,7 +22,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - Workshop on .............. 
 - Mode - Inperon
 
-## Challenge/Hackathon
+## Challenge/Hackathon - "QuanTest"
 
 -
 -
