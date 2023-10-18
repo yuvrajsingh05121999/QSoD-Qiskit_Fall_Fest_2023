@@ -9,7 +9,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 [Qiskit Fall Fest 2023](https://qiskit.org/events/fall-fest)
 
-<img src="">
+<img src="https://github.com/yuvrajsingh05121999/QSD-Qiskit_Fall_Fest_2023/assets/95167383/68d48cda-8a42-4a2c-bdf2-64195742b594">
 
 ## Official Registration
 
