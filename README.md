@@ -14,7 +14,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 ## Official Registration
 
 - Who can register -  "Students" who are studying at educational institutions located within Pune district. 
-- Please register here - [Google Form Link](https://)
+- Please register here - [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSdyzfcr9fAzSZE-eq25WgrOn307v95YbezDhnhAZYaSpNKWdQ/viewform)
 - NOTE : Accommodation and meals are not included; however, there will be a high tea. 
 
 ## Workshop Details
