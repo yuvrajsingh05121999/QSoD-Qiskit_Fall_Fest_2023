@@ -17,6 +17,8 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - Please register here - [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSdyzfcr9fAzSZE-eq25WgrOn307v95YbezDhnhAZYaSpNKWdQ/viewform)
 - Please note its mandatory for DIAT students to be a part of this event in person and outsiders will participate in virtual mode but they will have to mandatorily attend the QuanTest in person. Meals won't be provided, however can be arranged on payment basis.
 
+## Event Schedule
+
 ## Workshop Details
 
 - Workshop on .............. 
@@ -27,18 +29,6 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 -
 -
 
-
-## Event Schedule
-
-### Day 1 : Talks
-
-
-## Judging Criteria
-
--
--
--
--
 
 ## Winners
 
