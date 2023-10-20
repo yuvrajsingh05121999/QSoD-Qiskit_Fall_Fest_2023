@@ -42,10 +42,10 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 ![QSoD LOGO](https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/23cdb0f5-2239-43d6-9d0c-51417e0a9cb7)
 
-## Connect Us
+## Links
 
-- [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/95167383/276915812-3e58c4fd-57d5-4a7d-9ee4-1efb45a550cd.png">
-](https://)
+- [LinkedIn](https://www.linkedin.com/events/ibmqiskitfallfest-237120783063017517056))
+- [Instagram](https://www.instagram.com/qsod_diat?utm_source=qr&r=nametag )
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
