@@ -21,14 +21,12 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 ## Workshop Details
 
-- Workshop on .............. 
+- Workshop on QISKIT : Where code meets qubits, join our workshop and experience quantum computing in action!
 - Mode - Inperon
 
 ## Challenge/Hackathon: "QuanTest"
 
--
--
-
+- Coding challenge based on Qiskit.
 
 ## Winners
 
