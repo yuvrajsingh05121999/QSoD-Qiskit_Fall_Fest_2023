@@ -4,7 +4,7 @@
 
 ## Welcome!
 Hola Quantum Maniacs!!
-The School of Quantum Technology, DIAT  is thrilled to announce its first ever IBM QISKIT FALL FEST'23 as an inaugural event for the students led "QUANTUM SOCIETY OF DIAT (QSD)".
+The School of Quantum Technology, DIAT  is thrilled to announce its first ever IBM QISKIT FALL FEST'23 as an inaugural event for the students led "QUANTUM SOCIETY OF DIAT (QSoD)".
 Get ready to embark on the journey introducing you to the latest trends in academia and industries where you will get a chance to interact and learn with the bright and entrepreneurial minds. So fasten up your seatbelts and get ready for a riveting adventure where the future beholds.
 
 [Qiskit Fall Fest 2023](https://qiskit.org/events/fall-fest)
