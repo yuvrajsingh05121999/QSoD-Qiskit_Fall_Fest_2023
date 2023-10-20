@@ -44,7 +44,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 ## Connect Us
 
--
+- [LinkedIn](https://)
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
