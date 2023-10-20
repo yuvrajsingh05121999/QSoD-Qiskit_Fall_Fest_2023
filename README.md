@@ -13,8 +13,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 ## Official Registration
 
-- Who can register for "
-QuanTest: The Coding Challenge - "Students" who are studying at educational institutions located within Pune district. 
+- Who can register for QuanTest: The Coding Challenge - "Students" who are studying at educational institutions located within Pune district. 
 - Please register here - [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSdyzfcr9fAzSZE-eq25WgrOn307v95YbezDhnhAZYaSpNKWdQ/viewform)
 - Please note its mandatory for DIAT students to be a part of this event in person and outsiders will participate in virtual mode but they will have to mandatorily attend the QuanTest in person. Accomodation won't be provided.
   
