@@ -47,5 +47,14 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - [LinkedIn](https://www.linkedin.com/events/ibmqiskitfallfest-237120783063017517056)
 - [Instagram](https://www.instagram.com/qsod_diat?utm_source=qr&r=nametag )
 
+## Additional References
+
+- [Qiskit Textbook](https://qiskit.org/learn)
+- [Qiskit Documentation](https://qiskit.org/documentation/)
+- [IBM Quantum Lab](https://quantum-computing.ibm.com/lab)
+- [IBM Quantum Composer](https://quantum-computing.ibm.com/composer/files/new)
+- [Qiskit Software Development Kit](https://qiskit.org/)
+- [Qiskit Terra](https://anaconda.org/conda-forge/qiskit-terra)
+
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
