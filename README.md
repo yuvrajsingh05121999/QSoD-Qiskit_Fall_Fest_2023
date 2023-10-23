@@ -63,7 +63,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 
 - Akash Kumar Singh
 - Priya Pahwa
-- Upmanyu Ghosh
+- Upamanyu Ghosh
 - Hyny Madiri
 - Yuvraj Singh
 
