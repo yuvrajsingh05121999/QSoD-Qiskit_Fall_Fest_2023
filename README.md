@@ -26,7 +26,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - Workshop on QISKIT : Where code meets qubits, join our workshop and experience quantum computing in action!
 - Mode - Inperon
 
-## Challenge/Hackathon: "QuanTest"
+## "QuanTest" : The Coding Challenge
 
 - Coding challenge based on Qiskit.
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/b7f313b5-d997-45b1-ba2e-ec0bfdda17c7">
@@ -39,9 +39,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 -
 -
 
-## About Us
 
-![QSoD LOGO](https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/23cdb0f5-2239-43d6-9d0c-51417e0a9cb7)
 
 ## Links
 
@@ -57,5 +55,21 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - [Qiskit Software Development Kit](https://qiskit.org/)
 - [Qiskit Terra](https://anaconda.org/conda-forge/qiskit-terra)
 
+## About Us
+
+![QSoD LOGO](https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/23cdb0f5-2239-43d6-9d0c-51417e0a9cb7)
+
+## Event Organizing Team
+
+- Akash Kumar Singh
+- Priya Pahwa
+- Upmanyu Gosh
+- Hyny Madiri
+- Yuvraj Singh
+
+## Faculty Advisor
+- Dr. Kanaka Raju Pandiri
+- Dr. Srinivasan K
+   
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
