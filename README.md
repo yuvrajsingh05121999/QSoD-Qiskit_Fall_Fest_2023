@@ -29,6 +29,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 ## Challenge/Hackathon: "QuanTest"
 
 - Coding challenge based on Qiskit.
+<img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/b7f313b5-d997-45b1-ba2e-ec0bfdda17c7">
 
 ## Winners
 
