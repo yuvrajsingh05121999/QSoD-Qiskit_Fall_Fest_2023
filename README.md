@@ -73,8 +73,8 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - Yuvraj Singh
 
 ## Faculty Advisor
-- Dr. Kanaka Raju Pandiri
-- Dr. Srinivasan K
+- Dr. Kanaka Raju Pandiri, Assistant Professor, DIAT
+- Dr. Srinivasan K, Assistant Professor, DIAT
    
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
