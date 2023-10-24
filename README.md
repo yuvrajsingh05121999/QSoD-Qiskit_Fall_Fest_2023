@@ -12,32 +12,36 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 <img src="https://github.com/yuvrajsingh05121999/QSD-Qiskit_Fall_Fest_2023/assets/95167383/c4ea9311-6566-40b4-879e-0243e82cd4fc">
 
 ## Official Registration
-
-- Who can register for QuanTest: The Coding Challenge - "Students" who are studying at educational institutions located within Pune. 
+- Registration last date: 24th October,2023.
 - Please register here - [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSdyzfcr9fAzSZE-eq25WgrOn307v95YbezDhnhAZYaSpNKWdQ/viewform)
 - Please note its _mandatory_ for **DIAT Students** to be a part of this event _in person_ and **outsiders** may participate in _virtual_ mode but they will have to mandatorily attend the **"QuanTest" in person**. Accomodation won't be provided.
   
 ## Event Schedule
 
-- will be updated soon... 
+ 
+## TALKS (26-27 October,2023)
+- Highlighting the speakers expersts in their respective domains:
 
-## Workshop Details
 
+
+
+
+## Workshop +  QuanTesT" : The Coding Challenge (28th October'23)
+
+### GUIDELINES
+- workshop timings: 11:00am - 1:00pm
 - Workshop on QISKIT : Where code meets qubits, join our workshop and experience quantum computing in action!
-- Mode - Inperon
+- Please Note: its a mandatory in-person event.
 
-## "QuanTest" : The Coding Challenge
+- PLease refer to the following flyer for the QUanTesT Guidelines
+
 
 - Coding challenge based on Qiskit.
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/b7f313b5-d997-45b1-ba2e-ec0bfdda17c7">
 
 ## Winners
 
--
--
--
--
--
+-to be announced
 
 
 
