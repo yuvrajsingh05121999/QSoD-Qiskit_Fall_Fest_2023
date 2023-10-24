@@ -18,6 +18,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
   
 ## Event Schedule
 
+<img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/35c9e3fa-e510-4e98-b5db-2761f9ef29dd">
  
 ## TALKS (26-27 October,2023)
 - Highlighting the speakers expersts in their respective domains:
