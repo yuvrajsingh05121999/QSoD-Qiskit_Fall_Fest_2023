@@ -28,7 +28,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/8c269782-ad62-4976-9bd3-1ef8c843145f">
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/4f2859be-b731-4a24-a399-11432ecefceb">
 
-## Workshop +  QuanTesT" : The Coding Challenge (28th October'23)
+## Workshop +  "QuanTesT" : The Coding Challenge (28th October'23)
 
 ### GUIDELINES
 - workshop timings: 11:00am - 1:00pm
