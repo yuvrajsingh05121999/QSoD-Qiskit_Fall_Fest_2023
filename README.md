@@ -22,7 +22,7 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/db0e7b79-e665-4211-aefc-23c2fe0d1695">
  
 ## TALKS (26-27 October,2023)
-- Highlighting the speakers expersts in their respective domains:
+- Highlighting the speakers, experts in their respective domains:
 
 <img src = "https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/d81360a4-1974-4a08-b104-5c44e5d2f960">
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/8c269782-ad62-4976-9bd3-1ef8c843145f">
