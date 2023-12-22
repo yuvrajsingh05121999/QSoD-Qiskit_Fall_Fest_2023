@@ -41,6 +41,35 @@ Get ready to embark on the journey introducing you to the latest trends in acade
 - Coding challenge based on Qiskit.
 <img src="https://github.com/yuvrajsingh05121999/QSoD-Qiskit_Fall_Fest_2023/assets/95167383/b7f313b5-d997-45b1-ba2e-ec0bfdda17c7">
 
+## QuanTesT Participants
+- Gunjal Shubhangi Deepak
+- Minali Singh 
+- Uday Pratap Bais
+- Shubham Kasera 
+- Muskan Varshney
+- Balaji Dodda
+- Naveen V
+- George G Jose
+- Shyam Kumar Raghuwanshi 
+- Swapnil Manna
+- Rohit P Thampy 
+- Konapalli pavankalyan
+- KOMAL SANKAR
+- umesh chadra joshi
+- SHRAY TYAGI
+- GEETHA VEDIAPPAN 
+- Bhagyalekshmy S
+- Parth Sarda
+- Nishkal
+- RAJESH KUMAR
+- Padmapriya S
+- Rupayan Das
+- Anurag K S V
+- Sai Sidhartha H
+- Wani Tantarpale
+- Ashish Kumar Patra
+
+
 ## Winners
 
 -to be announced
